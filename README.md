@@ -1,2 +1,4 @@
-# Way of the Samurai, all weapons: https://drrak.github.io/wots.swords/
-WotS, Mikiri: https://drrak.github.io/wots.mikiri/
+# Way of the Samurai
+All weapons: https://drrak.github.io/wots.swords/
+
+Mikiri Skills: https://drrak.github.io/wots.mikiri/
